@@ -1,2 +1,2 @@
 # Summative-Portfolio
-The website that shows the work I've done in Computer Science this year.
+This is a website that shows some the work I've done in Computer Science this year.
