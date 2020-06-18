@@ -6,13 +6,18 @@
      <ol>
        <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/4544653077790720">
        What's for dinner?</a> (part of intro to JS) </li>
-       <li>Project: Travel Webpage (part of intrp to CSS) </li>
-       <li>Project: Bookshelf (part of intro to objects in JS) </li>
+       <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5349199602925568">
+       Travel Webpage</a> (part of intrp to CSS) </li>
+       <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/6709297849057280">
+       Bookshelf</a> (part of intro to objects in JS) </li>
        <li>The Algorthims module (the bits about graphing and the sorts)</li>
-       <li>Project: Blog (part of CSS text properties) </li>
-       <li>Project: Recipe Book (part of More HTML tags) </li>
+       <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/5559703276503040">
+       Blog </a>(part of CSS text properties) </li>
+       <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/4832910446837760">
+       Recipe Book</a> (part of More HTML tags) </li>
        <li>Challenge: Up Walker (part of natural simulation) </li>
-       <li>Project: Magic 8 Ball (part of logic and of statements)</li>
+       <li>Project: <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/6136836512301056">
+       Magic 8 Ball </a> (part of logic and of statements)</li>
        <li>Project: Fish Tank (part of the JS function branch)</li>
     </ol>
     <p> OK, so the first project I chose is the first project I did for this course. The elements of this project that I will continue 
@@ -33,6 +38,21 @@
     a few different topics. First sorting, I've learned about sorting algorthims before but this was very in-depth and the other thing was
     a new way of graphing and 2-D matrices. This will impact me as a student because algorthims are a complicated concept that I will learn 
     about once I get to university and a headstart is always good. </p>
+    
+    <p> Fifth thing I've got to show you is the Blog Post project. I chose it because it taught me a two of very important parts 
+    of website coding, those skills are linking offsite (see the list of modules) and internal linking. These skills will impact me as a
+    student because this module, among others, has helped me build a foundation for how to create websites.</p>
+    
+    <p> The sixth project I've got here is the evolution of #5, it's pretty much the next level of it. This project taught me another 
+    important concept that is pivitol to web design that being making tables and organizing infromation. This will have the same impact 
+    on me as the previous one and helped build on the aforementioned website develpoment.</p>
+    
+    <p> The seventh project I have to show you is the final one that was required. In the module I learned a few things about
+    natural simulations and stats. This project showed me 2 skills one it taught me how to add randomness to a programm and second
+    it taught me a little bit about stats. Knowing how to introduce randomness to a programm is an important skill to have because 
+    it allows you do create movement that is much more complex than just x++: for example. The stats pat of this simulation was also
+    improtant for me because statistics and data mangament are a part of my university degree.</p>
+    
     <p> </p>
   </body>
 </html>
